@@ -1,0 +1,15 @@
+{
+    "name": "marya/git-prueba-1",
+    "autoload": {
+        "psr-4": {
+            "Marya\\GitPrueba1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maryame Tghos Naim",
+            "email": "maryametghos@gmail.com"
+        }
+    ],
+    "require": {}
+}
